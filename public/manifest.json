@@ -1,0 +1,18 @@
+{
+  "name": "CardCount Pro - Hi-Lo Trainer",
+  "short_name": "CardCountPro",
+  "description": "Professional Blackjack Hi-Lo Card Counting and Illustrious 18 Deviation Training PWA",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050b08",
+  "theme_color": "#064e3b",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
